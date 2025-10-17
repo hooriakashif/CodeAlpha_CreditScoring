@@ -34,7 +34,6 @@ This repository contains the implementation of a **Credit Scoring Model** develo
 - `python src/predict.py` (tests a sample prediction)
 
 ## Acknowledgments
-A huge thank you to **@CodeAlpha** for providing this incredible learning opportunity. Check out my LinkedIn post for a video explanation: [Link to be added after posting].
-
+A huge thank you to **@CodeAlpha** for providing this incredible learning opportunity.
 ## Tags
 #MachineLearning #CreditScoring #CodeAlpha #Internship #DataScience
